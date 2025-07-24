@@ -3,6 +3,10 @@
 A surveillance incident management dashboard built using **Next.js**, **Tailwind CSS**, and **Python backend** (FastAPI/Django/Flask). The dashboard helps users monitor, view, and manage security camera incidents efficiently.
 <img width="1898" height="797" alt="readme" src="https://github.com/user-attachments/assets/b131117f-8ac1-43e2-865d-49f24282d826" />
 
+With webcam
+<img width="1856" height="811" alt="webcam" src="https://github.com/user-attachments/assets/cbb77e76-b5ee-4328-9c9b-dd4b2481c51e" />
+
+
 
 
 
